@@ -1,0 +1,18 @@
+{
+	"color_scheme": "Packages/Base16/Themes/base16-gruvbox-dark-hard.tmTheme",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"match_brackets": false,
+	"theme": "Adaptive.sublime-theme"
+}

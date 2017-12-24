@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ApplySyntax",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"Copy Relative Path",
+		"Dracula Color Scheme",
+		"Git blame",
+		"GitGutter",
+		"Hopscotch Color Scheme",
+		"LESS",
+		"Monokai++",
+		"Outline",
+		"Package Control",
+		"Pretty JSON",
+		"ProjectManager",
+		"Sass",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Theme - One Dark",
+		"Tomorrow Color Schemes"
+	]
+}
