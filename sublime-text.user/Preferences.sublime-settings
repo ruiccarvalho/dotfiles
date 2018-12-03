@@ -1,6 +1,8 @@
 {
-	"color_scheme": "Packages/Base16/Themes/base16-gruvbox-dark-hard.tmTheme",
-	"font_size": 14,
+	"color_scheme": "Packages/Theme - Monokai Pro/Monokai Pro.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "DejaVu Sans Mono",
+	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -14,5 +16,10 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"match_brackets": false,
-	"theme": "Adaptive.sublime-theme"
+	"rulers":
+	[
+		80
+	],
+	"theme": "Monokai Pro.sublime-theme",
+	"trim_trailing_white_space_on_save": true
 }

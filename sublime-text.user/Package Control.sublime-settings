@@ -10,10 +10,8 @@
 		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Copy Relative Path",
-		"Dracula Color Scheme",
 		"Git blame",
 		"GitGutter",
-		"Hopscotch Color Scheme",
 		"LESS",
 		"Monokai++",
 		"Outline",
@@ -23,7 +21,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"Solarized Color Scheme",
-		"Theme - One Dark",
-		"Tomorrow Color Schemes"
+		"Theme - Monokai Pro",
+		"Theme - One Dark"
 	]
 }
