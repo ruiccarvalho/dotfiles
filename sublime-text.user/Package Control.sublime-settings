@@ -5,23 +5,17 @@
 	],
 	"installed_packages":
 	[
-		"A File Icon",
 		"ApplySyntax",
-		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Copy Relative Path",
 		"Git blame",
 		"GitGutter",
 		"LESS",
-		"Monokai++",
 		"Outline",
 		"Package Control",
 		"Pretty JSON",
 		"ProjectManager",
 		"Sass",
-		"SideBarEnhancements",
-		"Solarized Color Scheme",
-		"Theme - Monokai Pro",
-		"Theme - One Dark"
+		"SideBarEnhancements"
 	]
 }
