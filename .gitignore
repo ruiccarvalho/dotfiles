@@ -24,3 +24,11 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Sublime Text 3
+sublime-text.user/*.crt
+sublime-text.user/Package Control.cache
+sublime-text.user/Package Control.merged-ca-bundle
+sublime-text.user/Package Control.system-ca-bundle
+sublime-text.user/Package Control.user-ca-bundle
+sublime-text.user/Package Control.last-run
